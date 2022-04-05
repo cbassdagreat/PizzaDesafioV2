@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PizzaDesafioV2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="maza">
+        <item>Piccola $1.500</item>
+        <item>Media $3.000</item>
+        <item>Familiar $5.000</item>
+    </string-array>
+</resources>
